@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">spinnerTest</string>
+    <string-array name="countries">
+    <item>---select---</item>
+        <item>India</item>
+        <item>Australia</item>
+        <item>Afganistan</item>
+        <item>china</item>
+        <item>Bangladesh</item>
+        <item>Shrilanka</item>
+    </string-array>
+    <string name="app_colour">spinnerTest</string>
+    <string-array name="colour">
+        <item>---select---</item>
+        <item>pink</item>
+        <item>White</item>
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Black</item>
+        <item>Yellow</item>
+        <item>Violet</item>
+        <item>Silver</item>
+        <item>Indigo</item>
+        <item>Salmon</item>
+        <item>Green</item>
+        <item>Brown</item>
+    </string-array>
+    <string name="app_flower">spinnerTest</string>
+    <string-array name="flower">
+        <item>---select---</item>
+        <item>Rose</item>
+        <item>lily</item>
+        <item>Daffodil</item>
+        <item>Lotas</item>
+        <item>Sunflower</item>
+        <item>Jasmine</item>
+        <item>Marigold</item>
+        <item>Hibascus</item>
+        <item>Chrysanthemum</item>
+        <item>Dahlia</item>
+        <item>Tulip</item>
+        <item>Orchid</item>
+    </string-array>
+</resources>
